@@ -1,0 +1,10 @@
+{
+  "name": "company-arch-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix ai-coos",
+    "build": "npm run build --prefix ai-coos",
+    "start": "npm run start --prefix ai-coos"
+  }
+}
